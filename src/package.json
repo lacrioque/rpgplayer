@@ -1,0 +1,26 @@
+{
+  "name": "nwjsboilerplate",
+  "version": "1.0.0",
+  "description": "A lightweight boilerplate code for a angularbased nwjsapp with angular material",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Markus Flür",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "node-forge": "^0.6.38",
+    "q": "^1.4.1"
+  },
+  "window": {
+    "title": "nwjsboilerplate",
+    "toolbar": true,
+    "frame": true,
+    "width": 800,
+    "height": 500,
+    "position": "center",
+    "min_width": 400,
+    "min_height": 200
+  }
+}

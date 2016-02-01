@@ -1,0 +1,30 @@
+{
+  "name": "rpgplayer",
+  "version": "1.0.0",
+  "description": "a nice to the eye dual mediaplayer with inbuild permanent loop",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Markus Flür",
+  "license": "MIT",
+  "devDependencies": {
+    "async": "^1.5.0",
+    "bower": "^1.6.5",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-install": "^0.6.0",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.7",
+    "gulp-webserver": "^0.9.1",
+    "run-sequence": "^1.1.5",
+    "shelljs": "^0.5.3",
+    "yargs": "^3.30.0"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "node-forge": "^0.6.38",
+    "q": "^1.4.1"
+  }
+}
